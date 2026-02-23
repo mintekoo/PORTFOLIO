@@ -1,8 +1,77 @@
-portfolio using html css & js
+Here’s an improved and more professional **README.md** for your portfolio project:
 
-## Go live
+---
 
-1. copy link:
+# 🌐 Personal Portfolio Website
+
+A modern and responsive **Portfolio Website** built using **HTML, CSS, and JavaScript**.
+This project showcases my skills, projects, and contact information in a clean and interactive design.
+
+---
+
+## 🚀 Live Demo
+
+🔗 **Go Live:**
+[https://mintekoo.github.io/PORTFOLIO/](https://mintekoo.github.io/PORTFOLIO/)
+
+---
+
+## 🛠️ Built With
+
+* **HTML5** – Structure of the website
+* **CSS3** – Styling and responsive design
+* **JavaScript (Vanilla JS)** – Interactivity and dynamic features
+
+---
+
+## ✨ Features
+
+* Responsive design (Mobile, Tablet, Desktop)
+* Smooth scrolling navigation
+* Interactive UI elements
+* Projects showcase section
+* Contact section
+
+---
+
+## 📂 Project Structure
+
+```
+PORTFOLIO/
+│── index.html
+│── style.css
+│── script.js
+│── assets/
+```
+
+---
+
+## 📸 Preview
+
+(Add a screenshot of your portfolio here)
+
+```md
+![Portfolio Preview](assets/preview.png)
+```
+
+---
+
+## 📦 How to Use
+
+1. Clone the repository
 
    ```bash
-   https://wizminer.github.io/PORTFOLIO/
+   git clone https://github.com/mintekoo/PORTFOLIO.git
+   ```
+
+2. Open `index.html` in your browser
+
+---
+
+## 📬 Contact
+
+Feel free to connect with me for collaborations or opportunities!
+
+---
+
+If you'd like, I can also create a **more modern GitHub-style README with badges, animations, and typing effects** to make it stand out even more.
